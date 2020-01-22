@@ -1,5 +1,5 @@
 <?php
-function curl_post($url,$post,$time=5)
+function curl_post($url,$post,$time=7.5)
 {
     $curl = curl_init();
     curl_setopt($curl, CURLOPT_URL, $url);

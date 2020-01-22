@@ -2,7 +2,7 @@
 # @Time :     2019/10/28 3:05 05
 # @File :     clear_cookies.php
 # @Software:  PhpStorm
-# @Descript:  清除所有cookies
+# @Descript:  清楚cookies
 # @Author :   Sudem
 # @Contact :  mail@szhcloud.cn 
 # @license :  Copyright(C) 2019, szhcloud.cn iw3c.top  
